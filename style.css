@@ -1,3 +1,13 @@
+body {
+    font-family: 'Itim', cursive;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Niconne', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
 .pro-code-clr {
     color: rgb(20, 185, 255);
 }
